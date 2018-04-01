@@ -1,7 +1,7 @@
 # Spotify-App
 
 ## Description
-App that uses spotify api to search for your favorite artists, albums and tracks.
+App that uses spotify api to search for your favorite artists, albums and tracks. This app uses fetch method to get json data.
 
 ## How to use it
 To use this app you will need a 1 hour expiration token obtained here : https://beta.developer.spotify.com/console/get-several-artists/ 
